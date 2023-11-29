@@ -60,17 +60,11 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
-    {
-      id: 9,
-      src: figma,
-      title: "Figma",
-      style: "shadow-pink-500",
-    },
   ];
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen pt-44 sm:pt-0"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
