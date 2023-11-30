@@ -22,3 +22,12 @@
 html {
   background-color: #1f2937;
 }
+
+.loadingDiv {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+}
