@@ -13,25 +13,16 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-14">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit qui,
-          eligendi deserunt odio quo porro nulla aliquid beatae voluptatem,
-          voluptatum facere ipsa quasi nobis? Quia modi facilis quas dolorem
-          dolorum? Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Amet reprehenderit libero, harum nesciunt illo quibusdam ex laborum,
-          veritatis vero debitis optio, reiciendis facilis sit? Quibusdam
-          laudantium dolore aliquam tenetur enim tempore qui soluta doloremque
-          tempora dolor officiis minus possimus, impedit quae sit deserunt
-          dignissimos? Fugiat praesentium atque quia accusantium nostrum.
+        <p className="text-xl">
+          Hello! I'm Omer Atli, a computer programming graduate and a constantly evolving frontend developer. I have been in the industry for two years, passionately approaching my work with a desire to apply what I've learned and create meaningful projects.
+
+          With my education and internship experiences, I've solidified my foundations in HTML, CSS, and JavaScript. I later delved into TypeScript and React, gaining proficiency in these technologies. Particularly, I enhanced my skills in user interface design using Material-UI.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam
-          voluptate, consequatur sunt sapiente velit sit beatae error fugiat
-          dolore reiciendis voluptatibus alias repellat, ut tempora sed libero.
-          Recusandae, tenetur quidem.
+          Embarking on this passionate journey, I aspire to continually elevate my skills and progress further in the ever-evolving landscape of frontend development.
         </p>
       </div>
     </div>
